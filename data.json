@@ -8,7 +8,7 @@
     "servers": [
       {
         "name": "عامر الخويذي",
-        "url": "https://bladisprt2.lovable.app/api/public/stream?t=eyJjaWQiOiJjaC0xLW1xaGNhMmhmIiwiZXhwIjoxNzgyNDA5NTk4NjU2LCJpcCI6IjE2OS4yMjQuMTIwLjk0Iiwia2luZCI6InByb3h5In0.uNgReL2PHmxfs7sOpu-RjXYBh1ZTq4LHnqR6m-3-JVE"
+        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/ReMRi8soRfFrWVQwptLHqG-SwpnMUDS8un8AXRKaxbLiJmMuMdcvFh9e5sBvlaR-OzLysz6RKFoIdmgeZij7pA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live"
       },
       {
         "name": "احمد عبدة",
