@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "team1": "كوراساو",
+    "team2": "الإكوادور",
+    "date": "2026-06-21",
+    "time": "20:00",
+    "servers": [
+      {
+        "name": "سيرفر 1",
+        "url": "https://bladisprt2.lovable.app/api/public/stream?t=eyJjaWQiOiJjaC0xLW1xaGNhMmhmIiwiZXhwIjoxNzgyMTc1MDA4MDU3LCJpcCI6IjE2OS4yMjQuMTIxLjU3Iiwia2luZCI6InByb3h5In0.k0kZ4a7lwTFmD8cZEFUYcjh1JISVMpgQUKQ-nOhm2Tw"
+      },
+      {
+        "name": "سيرفر 2",
+        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/bm8lpFEVI-qV9cmpmHV32F_Tbwm-x_FUi8ZokZ55Gan3Rh8q9pHnFxths4ihgFODrU4TGrcAkLu35XpDLqlXgw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live"
+      },
+      {
+        "name": "سيرفر 3",
+        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/gdw1gTUmQ033COuvUow8UO7g1kSpUtfKoPmhwNN_HcIF64BFYhtWUJyCTCqZkW-cLGA2NZYOx_8ZQpFY5h-O6w/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live"
+      },
+      {
+        "name": "سيرفر 4 - يعمل",
+        "url": "https://hugh.cdn.rumble.cloud/live/lvp39gn1/slot-51/vgzr-ojct_1080p/chunklist_DVR.m3u8"
+      }
+    ]
+  }
+]
