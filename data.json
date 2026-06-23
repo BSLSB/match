@@ -7,10 +7,6 @@
     "time": "8:00 م",
     "servers": [
       {
-        "name": "عامر الخويذي",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/ReMRi8soRfFrWVQwptLHqG-SwpnMUDS8un8AXRKaxbLiJmMuMdcvFh9e5sBvlaR-OzLysz6RKFoIdmgeZij7pA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live"
-      },
-      {
         "name": "عامر الخويذي 2",
         "url": "https://bladisprt2.lovable.app/api/public/stream?t=eyJjaWQiOiJjaC0xLW1xaGNhMmhmIiwiZXhwIjoxNzgyNDEyNDcxNjIyLCJpcCI6IjE2OS4yMjQuMTIwLjk0Iiwia2luZCI6InByb3h5In0.Av_pfIJVMy6QY6YhYxU49m0cEZJ4M2yIF5NUsswnP_4"
       },
